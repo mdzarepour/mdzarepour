@@ -1,5 +1,5 @@
 ### 👋 Hey there, I'm Masoud  
-### 💻 I'm a Software Engineer and Flutter Developer
+### 💻 I'm a Flutter Developer
 
 - 🔭 I’m really interested in Flutter and Dart  
 - 💬 Ask me anything about Flutter and Dart  
