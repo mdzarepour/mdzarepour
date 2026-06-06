@@ -2,7 +2,6 @@
 ### 💻 I'm a Flutter Developer
 
 - 🔭 I’m really interested in Flutter and Dart  
-- 💬 Ask me anything about Flutter and Dart  
 - 🌏 You can reach me at **mdzarepour@gmail.com**  
 - 📨 Or for a faster response, send me a message on **[Telegram](https://t.me/mdzarepour)**
 
