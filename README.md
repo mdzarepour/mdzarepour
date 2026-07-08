@@ -39,8 +39,6 @@
   </a>
   <br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=mdzarepour&show_icons=true&theme=nord" alt="GitHub Stats" />
+    <img width="420" src="https://github-readme-stats-fast.vercel.app/api?username=mdzarepour&theme=dark&show_icons=true&hide=contribs" alt="GitHub Stats" />
   </a>
 </div>
-
-
