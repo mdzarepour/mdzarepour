@@ -1,12 +1,9 @@
-### 👋 Hey there, I'm Masoud  
-### 💻 I'm a Flutter Developer
 
-- 🔭 I’m really interested in Flutter and Dart  
 - 🌏 You can reach me at **mdzarepour@gmail.com**  
 - 📨 Or for a faster response, send me a message on **[Telegram](https://t.me/mdzarepour)**
 
 #
-### Languages & Technologies  
+ Languages & Technologies  
 <div>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
